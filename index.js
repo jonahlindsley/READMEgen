@@ -17,8 +17,8 @@ const questions = [
 }, 
 {
     type: 'input',
-    name: 'website',
-    message: 'enter the deployed websites URL'
+    name: 'discription',
+    message: 'enter a description of the application'
 }, 
 {
     type: 'input',
@@ -32,7 +32,7 @@ const questions = [
 },
 {
     type: 'input',
-    name: 'instructions',
+    name: 'usage',
     message: 'add your usage instructions'
 },
 {
