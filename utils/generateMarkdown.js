@@ -37,7 +37,6 @@ function renderLicenseSection(license) {
     return ''
   }else{
     return ` ${renderLicenseBadge(license)}
-    
     1. Software can be modified, used commercially, and distributed.
     2. Software can be modified and used in private.
     3. A license and copyright notice must be included in the software.
